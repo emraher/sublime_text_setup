@@ -1,45 +1,30 @@
 {
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
-	"copy_with_empty_selection": false,
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
-	"file_exclude_patterns":
+	"added_words":
 	[
-		".tags",
-		".tags_sorted_by_file"
+		"hedonic",
+		"heteroskedasticity",
+		"ruralness",
+		"logit",
+		"probit",
+		"unpruned",
+		"interpretability",
+		"kriging",
+		"replicability",
+		"replicable"
 	],
-	"folder_exclude_patterns":
-	[
-		"node_modules",
-		"elm-stuff",
-		"coverage"
-	],
-	"font_size": 15,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
 	"ignored_packages":
 	[
+		"Vintage"
 	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"margin": 2,
-	"new_window_settings":
-	{
-		"show_minimap": false
-	},
-	"rulers":
-	[
-		100
-	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"theme": "Adaptive.sublime-theme",
+	"rulers": [100],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"wide_caret": true,
-	"word_wrap": false
+	"bold_folder_labels": true
 }

@@ -1,0 +1,6 @@
+{
+    // path to Rscript, for example
+    // (mac, linux): "/usr/local/bin/Rscript"
+    // (windows):    "C:\\Program Files\\R\\R-x.y.z\\bin\\Rscript.exe"
+    "rscript_binary": "/usr/local/bin/Rscript",
+}

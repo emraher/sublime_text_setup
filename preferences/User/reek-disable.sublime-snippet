@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[# :reek:$1]]></content>
-  <tabTrigger>rd</tabTrigger>
-  <description>Reek Disable</description>
-  <scope>source.ruby</scope>
-</snippet>

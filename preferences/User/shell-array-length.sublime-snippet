@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[\${#${1:name}[@]}]]></content>
-  <tabTrigger>arrayl</tabTrigger>
-  <description>Shell Array (length)</description>
-  <scope>source.shell</scope>
-</snippet>

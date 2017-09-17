@@ -1,0 +1,7 @@
+{
+//location of the bibtex file:
+"bibtex_file_path": "/Volumes/Dropbox/Dropbox/Bibliography/Bibliography.bib",
+//Citer Search:
+"search_fields": ["author", "title", "year", "id"],
+"citation_format": "@%s",
+}

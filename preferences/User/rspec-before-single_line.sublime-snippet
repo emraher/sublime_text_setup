@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[before$1 { $2 }]]></content>
-  <tabTrigger>before</tabTrigger>
-  <description>RSpec Before (single line)</description>
-  <scope>source.ruby</scope>
-</snippet>

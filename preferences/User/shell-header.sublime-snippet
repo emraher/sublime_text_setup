@@ -1,6 +1,0 @@
-<snippet>
-  <content><![CDATA[#!/bin/sh]]></content>
-  <tabTrigger>shellh</tabTrigger>
-  <description>Shell Script Header</description>
-  <scope>source.shell</scope>
-</snippet>

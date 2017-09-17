@@ -1,0 +1,19 @@
+[
+   {"caption" : "-"},
+    {
+      "id": "aligntab",
+      "caption": "Align By",
+      "children": [
+          {
+          "caption" : "First Dash -",
+          "command" : "align_tab",
+          "args"    : {"user_input" : "-/f"}
+          },
+          {
+          "caption" : "First Comma ,",
+          "command" : "align_tab",
+          "args"    : {"user_input" : ",/f"}
+          }
+      ]
+  }
+]

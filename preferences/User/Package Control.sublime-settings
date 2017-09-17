@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AcademicMarkdown",
+		"AceJump",
+		"Alignment",
+		"AlignTab",
+		"All Autocomplete",
+		"BinaryPlist",
+		"BracketHighlighter",
+		"Citer",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"knitr",
+		"LaTeX Snippets",
+		"LaTeX Word Count",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LaTeXTools",
+		"Markdown Extended",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Pandoc",
+		"R-Box",
+		"R-snippets",
+		"SendCode",
+		"SideBarEnhancements",
+		"Stata Improved Editor",
+		"SublimeLinter",
+		"SublimeLinter-contrib-lintr",
+		"TerminalView",
+		"TrailingSpaces",
+		"VIM Navigation",
+		"Whitespace"
+	]
+}
